@@ -4,8 +4,8 @@ import 'package:vector_math/vector_math.dart' show radians, degrees;
 class Utils {
   Utils._();
 
-  static final _deLa = radians(21.422487);
-  static final _deLo = radians(39.826206);
+  static final _deLa = radians(31.77808);
+  static final _deLo = radians(35.23593);
 
   static double getOffsetFromNorth(
     double currentLatitude,
